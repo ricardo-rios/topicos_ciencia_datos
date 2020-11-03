@@ -14,13 +14,8 @@ Realizar lo siguiente:
    * Estimar un modelo de random forest con los valores por defecto.
 
 * Usando la métrica accuracy imprima el desempeño del modelo con un número de folds igual a 10.  
-
-  
-Sugerencia: podría ser de utilidad revisar el siguiente código:
-
-https://scikit-learn.org/stable/tutorial/statistical_inference/putting_together.html
-
-También, puede usar el buscador de google para búscar más recursos
+ 
+Puede usar el buscador de google para búscar más recursos
 que le ayuden a desarrollar los items.
 
 
