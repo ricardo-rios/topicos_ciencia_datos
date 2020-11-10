@@ -30,10 +30,15 @@ https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsCl
 Rúbrica.
 
 Cargar el archivo usando la líbreria pandas. [20%]
+
 Realizar análisis descriptivos a tus datos. [20%]
+
 Entender tus datos con visualizaciones. [20%]
+
 Desarrollar una estrategia de selección de variables. [10%]
+
 Crear un pipeline. [10%]
+
 Usando la métrica accuracy imprima el desempeño del modelo con un número de folds igual a 10. [20%]
 
 **Nota**: En caso de no usar pipelines se descontara un 10% de la nota total.
