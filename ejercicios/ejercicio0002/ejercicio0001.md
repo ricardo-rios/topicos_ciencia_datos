@@ -8,7 +8,7 @@ Realizar lo siguiente:
 
 * Cargar el archivo usando la líbreria pandas  
 * Crear un pipeline de scikit-learn que realize lo siguiente: 
-   * Escoger las variables más relevantes del problema usando el enfoque exploratorio de datos planteado en el siguiente código: (Solucionario Parcial I )[]. 
+   * Escoger las variables más relevantes del problema usando el enfoque exploratorio de datos planteado en el siguiente código: (Solucionario Parcial I)[https://github.com/ricardo-rios/topicos_ciencia_datos/blob/master/parciales/parcial_i/Solucionario_ParcialI_enfoque_exploratorio.ipynb]. 
    * Escalar los datos para que tengan media cero y desviación típica 1, revisar lo siguiente: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
    * Estimar un modelo de redes neuronales con la siguiente arquitectura   
 
@@ -18,8 +18,8 @@ Puede usar el buscador de google para búscar más recursos
 que le ayuden a desarrollar los items. Revisar los siguientes 
 recursos pueden ser de utilidad:
 
-* Usar el Wrapper KerasClassifier (Capítulo 8 del libro deep learning with Python) 
-* 
+* Usar el Wrapper KerasClassifier mencionado en el  Capítulo 8 del libro deep learning with Python. 
+* Puede ser de utilidad revisar el Capítulo 14 del libro machine learning with Python.  
 
 
 
