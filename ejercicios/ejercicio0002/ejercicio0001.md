@@ -10,17 +10,18 @@ Realizar lo siguiente:
 * Crear un pipeline de scikit-learn que realize lo siguiente: 
    * Escoger las variables más relevantes del problema usando el enfoque exploratorio de datos planteado en el siguiente código: (Solucionario Parcial I)[https://github.com/ricardo-rios/topicos_ciencia_datos/blob/master/parciales/parcial_i/Solucionario_ParcialI_enfoque_exploratorio.ipynb]. 
    * Escalar los datos para que tengan media cero y desviación típica 1, revisar lo siguiente: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
-   * Estimar un modelo de redes neuronales con la siguiente arquitectura   
+   * Estimar un modelo de redes neuronales con la siguiente arquitectura  2 neuronas en la capa de entrada, 2 neuronas en la capa ocutlta (la red neuronal solo tiene una capa) y una neurona de salida.  si 
 
 * Usando la métrica accuracy imprima el desempeño del modelo con un número de folds igual a 10.  
  
 Puede usar el buscador de google para búscar más recursos
 que le ayuden a desarrollar los items. Revisar los siguientes 
-recursos pueden ser de utilidad:
+recursos que pueden ser de utilidad:
 
 * Usar el Wrapper KerasClassifier mencionado en el  Capítulo 8 del libro deep learning with Python. 
+* Revisar el Capítulo 8 del libro deep learning with Python.  
 * Puede ser de utilidad revisar el Capítulo 14 del libro machine learning with Python.  
-
+* Pueder ser de utilidad revisar el Capítulo 2 de la siguiente tesis de maestria (páginas 20-67) [http://ri.ues.edu.sv/id/eprint/12577/1/19200945.pdf](http://ri.ues.edu.sv/id/eprint/12577/1/19200945.pdf)  
 
 
 
