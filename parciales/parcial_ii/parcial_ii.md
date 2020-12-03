@@ -14,7 +14,7 @@ Realizar lo siguiente:
 
 * Usando la métrica accuracy imprima el desempeño del modelo con un número de folds igual a 10 [30%].  
 
-En caso de no usar Pipelines se descontará un punto de la nota final.  
+En caso de no usar Pipelines se descontará un punto a la nota final.  
  
 Puede usar el buscador de google para búscar más recursos
 que le ayuden a desarrollar los items. Revisar los siguientes 
